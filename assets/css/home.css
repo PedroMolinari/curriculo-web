@@ -138,7 +138,7 @@
 }
 .container .h-educacao .item {
   width: 100%;
-  min-height: 220px;
+  min-height: 100px;
 }
 .container .h-educacao .item .title {
   margin-bottom: 10px;
